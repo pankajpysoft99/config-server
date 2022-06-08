@@ -6,3 +6,4 @@ eureka:
       defaultZone: http://localhost:8761/eureka
     instance:
       hostname: localhost
+user.service.url=http://localhost:8081/userService/checkRest     
