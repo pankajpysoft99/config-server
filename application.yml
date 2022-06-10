@@ -7,3 +7,4 @@ eureka:
     instance:
       hostname: localhost
 flightSearch.service.url: http://localhost:8081/flightService/searchFlight
+flightCatalog.service.url: http://localhost:8888/flightservice/
