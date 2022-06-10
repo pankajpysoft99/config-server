@@ -8,4 +8,4 @@ eureka:
       hostname: localhost
 flightSearch.service.url: http://localhost:8081/flightService/searchFlight
 flightDetails.service.url: http://localhost:8888/flightservice/
-flightCatalog.service.url: http://localhost:8181/flightcatalog/
+flightCatalog.service.url: http://localhost:8181/flightcatalog
