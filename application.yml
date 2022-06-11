@@ -3,9 +3,9 @@ eureka:
      register-with-eureka: true
      fetch-registry: true
      serviceUrl:
-      defaultZone: http://localhost:8761/eureka
+      defaultZone: http://localhost:8761/eurek
     instance:
       hostname: localhost
-search: http://localhost:8111/searchflight/
+search: http://localhost:8111/searchflight
 flightDetails: http://localhost:8888/flightservice/
 flightCatalog: http://localhost:8181/flightcatalog
