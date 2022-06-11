@@ -6,6 +6,6 @@ eureka:
       defaultZone: http://localhost:8761/eureka
     instance:
       hostname: localhost
-flightSearch.service.url: http://localhost:8081/flightService/searchFlight
+flightSearch.service.url: http://localhost:8111/searchflight/
 flightDetails.service.url: http://localhost:8888/flightservice/
 flightCatalog.service.url: http://localhost:8181/flightcatalog
