@@ -7,5 +7,4 @@ eureka:
     instance:
       hostname: localhost
       
-flight:
- search: http://localhost:8111/searchflight
+flight.search.url: http://localhost:8111/searchflight
